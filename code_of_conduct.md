@@ -1,12 +1,3 @@
-|                 |                                        |
-| -------------- / ---------------------------------- |
-| Author    | Aaron Foster |
-| Discussions To | [Coop Forum](www.ensert.forum.post.com) |
-| Status | Draft |
-| Type | Informational |
-| Category | Policy |
-| Created | 2019-05-28 |
-
 # Aragon Coop Code of Conduct 0.0.1
 
 ## Statement of Intent
