@@ -1,13 +1,3 @@
-|                 |                                        |
-| -------------- / ---------------------------------- |
-| Author    | Aaron Foster |
-| Discussions To | [Coop Forum](www.ensert.forum.post.com) |
-| Status | Draft |
-| Type | Informational |
-| Category | Policy |
-| Created | 2019-05-28 |
-
-
 # BYLAWS: *Aragon Coop*
 
 
