@@ -1,1 +1,0 @@
-# aragoncoop_governance
