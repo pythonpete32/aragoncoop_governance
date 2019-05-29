@@ -6,7 +6,7 @@
 
 #### As a member of the cooperative I am entitled to:
 
-- Have one vote at general and other co-op meetings and receive proper notice of meetings
+- Have one membership vote in all Aragon Cooperative DAO votes
 
 - Serve in working groups
 
@@ -16,20 +16,18 @@
 
 - Receive information about the cooperative’s financial status and other important processes or decision (e.g. resolutions). 
 
-- Receive dividends on shares held in the cooperative
-
 
 ### Responsibilities as a member of the cooperative
 
 #### As a member of the cooperative I have a responsibility to:
 
-- Participate in the governance of the cooperative through attendance of general meeting, voting on decisions, asking questions, and participating in working groups
+- Participate in the governance of the cooperative through voting in the Aragon Cooperative DAO, asking questions, and participating in working groups
 
 - Support the mission, vision, and goals of the cooperative
 
 - Adhere to the policies and procedures of the cooperative set out in the organizational documents and created by the board
 
-- Support the cooperative’s operations by contributing to the delivery of services
+- Support the cooperative’s operations by contributing to the delivery of the Aragon Cooperative's goals
 
 - Learn more about the cooperative’s operations and organizational capacity  
 
