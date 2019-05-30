@@ -9,11 +9,7 @@ Aragon Cooperative will be the name of this organization. It shall be incorporat
 #### Section 2    _*Purpose*_
 The organization is incorporated solely for charitable purposes. The purpose of the organization is:
 
-This directly addresses temp Issue #8: Cooperative DAO Bylaws
-- https://github.com/aragoncoop/temp/issues/8
-- AGP40
-- as I mentioned in temp Issue #3, I think it makes sense for the purpose to be to fulfil AGP-40. Then once we do that we can broaden the scope to something more generic and community oriented. 
-- https://github.com/aragoncoop/temp/issues/3
+To support grassroots community initiatives in the broader Aragon ecosystem. This will include but not limited to general documentation and guides, demos, workshops, and meetups, with the purpose of helping people understand what Aragon is and how they can build with it. Its main focus is on engaging with people, talking to them, and distilling their questions and comments into actionable insights for the broader Aragon community.
 
 
 #### Section 3    _*Non-Discrimination Policy*_
