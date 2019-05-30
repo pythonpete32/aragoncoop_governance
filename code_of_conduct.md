@@ -2,11 +2,9 @@
 
 ## Statement of Intent
 
-This CoC is meant for a decentralized community. We are not focused on institutions but individual teams. As a community initiative, we encourage other initiatives to work on the development of this protocols and prevention schemes that will be discussed collectively.
+This CoC is meant for a decentralized community. We encourage you to promote this Code and take action (especially if you are in a leadership position) to bring the discussion back to a more civil level whenever inappropriate behaviors are observed.
 
-We encourage you to promote this Code and take action (especially if you are in a leadership position) to bring the discussion back to a more civil level whenever inappropriate behaviors are observed.
-
-Power protects people's crimes. Decentralization works towards eliminating power. Therefore we should work the to eliminate the adverse side-effects of power. 
+Power protects people's crimes. Decentralization works towards balancing that power within a community. Therefore we should work the to eliminate the adverse side-effects of concentrations of power. 
 
 ## Code of Conduct
 
@@ -22,13 +20,9 @@ We reject attacks that involve violations of privacy of others and their persona
 
 Sanctions for breaches of this Code of Conduct will be commensurate with the severity of the infraction.
 
-By the nature of our decentralized space, the adoption of this code of conduct will be voluntary, and up to individual teams. 
+By the nature of our decentralized space, the adoption of this code of conduct will be voluntary. It is up to Aragon Cooperative members to identify, discuss, and enforce consequences when innaproriate conduct occurs. 
 
 ## Feedback 
-
-The Documentation Working group is responsible for maintaining and evolving of this document.
-
-GitHub Repo: [https://github.com/create-repo-for-our-docs](ensert.the.link.com)
 
 Initial Discussion: [Aragon Forum](Forum Link)
 
