@@ -1,6 +1,5 @@
-# Coop onboarding protocol
-
-How people become members of the Aragon Cooperative. 
+<h1 align='center'> Coop onboarding protocol</h1>
+<p align='center'>How people become members of the Aragon Cooperative</p>
 
 <br>
 
