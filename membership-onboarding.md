@@ -29,6 +29,8 @@ This involves creating a vote on the mainnet Aragon Cooperative DAO. The vote mu
 
 ### 3. Current Members can then vote to mint a new MBR token for the contributor or not
 
+This vote can only happen on the Ethereum mainnet Aragon Cooperative DAO
+
 <br>
 
 ## Criteria
