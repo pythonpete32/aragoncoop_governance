@@ -24,7 +24,7 @@ By the nature of our decentralized space, the adoption of this code of conduct w
 
 ## Feedback 
 
-Initial Discussion: [Aragon Forum](Forum Link)
+TBD. Members can provide feedback on breaches on this Code Of Conduct is an open question. In most organizations there is a community manager or HR department who handles this. The Aragon Cooperative is a flat organization so this is not possible. Any feedback or suggestions to address this problem would be greatly appreciated. 
 
 ## Glossary
 
