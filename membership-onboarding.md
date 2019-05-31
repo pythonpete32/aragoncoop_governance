@@ -3,14 +3,6 @@
 
 <br>
 
-## Motivation
-
-- The current process doesn’t work
-- One person responsible 
-- avoid consuming too much bandwidth 
-
-<br>
-
 ## Protocol
 
 ### 1. Contributor signals intent to become a member by creating a Membership Request Issue in the temp repo
