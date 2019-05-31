@@ -2,12 +2,15 @@
 
 How people become members of the Aragon Cooperative. 
 
+<br>
+
 ## Motivation
 
 - The current process doesn’t work
 - One person responsible 
 - avoid consuming too much bandwidth 
 
+<br>
 
 ## Protocol
 
@@ -26,6 +29,7 @@ This involves creating a vote on the mainnet Aragon Cooperative DAO. The vote mu
 
 ### 3. Current Members can then vote to mint a new MBR token for the contributor or not
 
+<br>
 
 ## Criteria
 
@@ -45,14 +49,11 @@ Is there any evidence their conduct elsewhere has been problematic? Have they ex
 
 Has the member been recommended by a current member of the group?
 
+<br>
 
 ## Onboarding Guide
 
 This is a to-do item:
 - Outline, the process beginning --> end from the perspective of the candidate
 
-
-
-
-
-
+<br>
