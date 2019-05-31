@@ -37,7 +37,7 @@ Members shall remain Members so long as they continue holding a MBR token
 The quorum will be that set by the [DAO](link.to.dao) on the main Ethereum network
 
 #### Section 5    Meetings
-Regular meetings of the Members shall be held weekly. Meetings are for discussion only, no binding decisions can only be made through the (DAO)[link.to.dao] on the main Ethereum network. members must be given the opportunity to contribute in writing.
+Regular meetings of the Members shall be held weekly. Meetings are optional and for discussion only. No binding decisions can be made via rough consensus. All binding decisions are to be made by voting with the Aragon Cooperative (DAO)[link.to.dao] on the main Ethereum network. Members who cannot or do not want to attend the meetings must be given the opportunity to contribute in writing. An agenda must be set and shared with all members 24hours prior to the meeting. Minutes of every meeting must also be made available for members to review. Agendas and minutes of meetings shall be held in the `meetings` folder of the temp repo.
 
 #### Section 6    Notice of Meetings
 Written notice stating the place, date and hour of any regular meeting of the Members shall be delivered electronically to each Director with a minimum of seven days notice. 
@@ -52,17 +52,8 @@ Onboarding new Members may be carried out at any time as per the [membership-onb
 ## ARTICLE III. _*EXECUTION OF DOCUMENTS*_
 
 #### Section 1    Documents, Obligations and Disbursements
-Policies regarding documents, obligations and disbursements are set forth in the organization’s operations policies which shall be reviewed on an annual basis by the Members.
+Policies regarding documents, obligations and disbursements are set forth in the organization’s operations policies which shall be reviewed on a regular basis by the Members.
 
-
-## ARTICLE V. _*Accounting*_
-
-#### Section 1    Fiscal Cycle
-The designated fiscal cycle of the Aragon Cooperative shall be [between AGP's?].
-
-
-#### Section 2    Accounts
-Accounts must be produced between fiscal cycles.
 
 
                             
