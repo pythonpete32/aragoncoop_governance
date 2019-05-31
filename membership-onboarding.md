@@ -1,4 +1,4 @@
-<h1 align='center'> Coop onboarding protocol</h1>
+<h1 align='center'> Aragon Cooperative Membership Onboarding Protocol</h1>
 <p align='center'>How people become members of the Aragon Cooperative</p>
 
 <br>
