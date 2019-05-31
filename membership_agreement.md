@@ -40,8 +40,4 @@
 
 - Maintain a transparent and efficient system of decision-making that is inclusive of the membership and supportive of the mission and vision of the cooperative
 
-- Conduct business, through the board or staff, that is in the best interest of the cooperative and its members
-
-
-
-[how do members sign this document?]
+- Conduct business, through the process of voting on the Aragon Cooperative mainnet DAO, that is in the best interest of the cooperative and its members
