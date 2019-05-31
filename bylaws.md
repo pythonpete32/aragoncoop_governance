@@ -31,10 +31,16 @@ in summary, members equally control and manage the Aragon Cooperative restricted
 The Membership shall be unlimited in size. Members receive no compensation other than reasonable expenses as per the organisation's workflow agreement.
 
 #### Section 3    Term
-Members shall remain Members so long as they continue holding a MBR token
+Members shall remain Members so long as they continue holding a MBR token. MBR tokens can be seen on the mainnet Aragon Cooperative DAO. This is the only source of truth for who is and is not a member. 
 
 #### Section 4    Quorum
-The quorum will be that set by the [DAO](link.to.dao) on the main Ethereum network
+The quorum will be that set by the [DAO](link.to.dao) on the main Ethereum network.
+
+All binding decisions must be made via the Aragon Cooperative DAO. This includes, but is not limited to:
+- changes to the structure of the DAO (adding/removing apps, adding/removing members, etc)
+- changes to the bylaws
+- changes to the membership structure
+- changes to the workflow
 
 #### Section 5    Meetings
 Regular meetings of the Members shall be held weekly. Meetings are optional and for discussion only. No binding decisions can be made via rough consensus. All binding decisions are to be made by voting with the Aragon Cooperative (DAO)[link.to.dao] on the main Ethereum network. Members who cannot or do not want to attend the meetings must be given the opportunity to contribute in writing. An agenda must be set and shared with all members 24hours prior to the meeting. Minutes of every meeting must also be made available for members to review. Agendas and minutes of meetings shall be held in the `meetings` folder of the temp repo.
