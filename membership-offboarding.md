@@ -2,4 +2,10 @@
 <p align='center'>How members can leave the organization</p>
 <br>
 
-Content TBD
+## Voluntary Termination
+
+<br>
+
+## Forced Removal
+
+<br>
