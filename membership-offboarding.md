@@ -18,12 +18,12 @@ After creating this Resignation Issue, members can then create a vote on the Eth
 
 ## Termination
 
-Aragon Cooperative members can vote to terminate current members at any time. To do so, an Issue will be created in the temp repo titled "Termination: @member-id-on-keybase." The Termination Issue must answer the following questions:
+Aragon Cooperative members can vote to terminate current members at any time. To do so, an Issue needs to be created in the temp repo titled "Termination: @member-id-on-keybase." The Termination Issue must answer the following questions:
 - Who are you terminating?
 - Why are they being terminated?
 - Is there anything they can do to fix this before it is put to a vote?
 
-After creating this Termination Issue, members can then create a vote on the Ethereum mainnet Aragon Cooperative DAO to remove themselves as members. This vote must reference the Issue number, the members Keybase account ID, and the reason for termination.
+After creating this Termination Issue, members can then create a vote on the Ethereum mainnet Aragon Cooperative DAO to remove the member in question. This vote must reference the Issue number, the members Keybase account ID, and the reason for termination.
 
 <br>
 
