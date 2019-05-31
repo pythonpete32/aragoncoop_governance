@@ -1,10 +1,15 @@
-# Aragon Coop Code of Conduct 0.0.1
+<h1 align='center'>Aragon Cooperative Code Of Conduct</h1>
+<p align='center'>Expectations of Aragon Cooperative Members</p>
+
+<br>
 
 ## Statement of Intent
 
 This CoC is meant for a decentralized community. We encourage you to promote this Code and take action (especially if you are in a leadership position) to bring the discussion back to a more civil level whenever inappropriate behaviors are observed.
 
 Power protects people's crimes. Decentralization works towards balancing that power within a community. Therefore we should work the to eliminate the adverse side-effects of concentrations of power. 
+
+<br>
 
 ## Code of Conduct
 
@@ -22,9 +27,13 @@ Sanctions for breaches of this Code of Conduct will be commensurate with the sev
 
 By the nature of our decentralized space, the adoption of this code of conduct will be voluntary. It is up to Aragon Cooperative members to identify, discuss, and enforce consequences when innaproriate conduct occurs. 
 
+<br>
+
 ## Feedback 
 
 TBD. Members can provide feedback on breaches on this Code Of Conduct is an open question. In most organizations there is a community manager or HR department who handles this. The Aragon Cooperative is a flat organization so this is not possible. Any feedback or suggestions to address this problem would be greatly appreciated. 
+
+<br>
 
 ## Glossary
 
@@ -62,6 +71,10 @@ Hard to define? Some questions to ask yourself are:
 
 Summary: if you are unsure whether something might be welcome or unwelcome, don't do it.
 
+<br>
+
+## Notes
+
 CoC inspired and adapted from: 
 
 - [EthCC CoC](https://ethcc.io/images/EthCC_CoC.pdf)
@@ -73,3 +86,5 @@ CoC inspired and adapted from:
 - [EF CoC from Devcon4](https://devcon4.ethereum.org/code-of-conduct)
 
 - [Ethereum Community's Code of Conduct 0.0.1](https://ethereum-magicians.org/t/ethmagicians-council-of-prague-integrity-ring-community-code-of-conduct/2836)
+
+<br>
