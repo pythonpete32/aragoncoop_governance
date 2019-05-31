@@ -1,10 +1,11 @@
-# Aragon Coop Membership Agreement
+<h1 align='center'>Aragon Cooperative Membership Agreement</h1>
+<p align='center'>This agreement outlines the rights and responsibilities of an individual that has in the Cooperative and the obligations of the Cooperative to those members</p>
 
-- This agreement outlines the rights and responsibilities of an individual that has in the Cooperative and the obligations of the Cooperative to those members.
+<br>
 
-### Rights as a member of the cooperative
+## Rights as a member of the cooperative
 
-#### As a member of the cooperative I am entitled to:
+### As a member of the cooperative I am entitled to:
 
 - Have one membership vote in all Aragon Cooperative DAO votes
 
@@ -16,10 +17,11 @@
 
 - Receive information about the cooperative’s financial status and other important processes or decision (e.g. resolutions). 
 
+<br>
 
-### Responsibilities as a member of the cooperative
+## Responsibilities as a member of the cooperative
 
-#### As a member of the cooperative I have a responsibility to:
+### As a member of the cooperative I have a responsibility to:
 
 - Participate in the governance of the cooperative through voting in the Aragon Cooperative DAO, asking questions, and participating in working groups
 
@@ -31,13 +33,16 @@
 
 - Learn more about the cooperative’s operations and organizational capacity  
 
+<br>
 
-### Obligations of the cooperative to members
+## Obligations of the cooperative to members
 
-#### As a member of the cooperative, I understand that the cooperative is obligated to:
+### As a member of the cooperative, I understand that the cooperative is obligated to:
 
 - Provide notice of meetings and information on ways that I can participate in the cooperatives governance
 
 - Maintain a transparent and efficient system of decision-making that is inclusive of the membership and supportive of the mission and vision of the cooperative
 
 - Conduct business, through the process of voting on the Aragon Cooperative mainnet DAO, that is in the best interest of the cooperative and its members
+
+<br>
