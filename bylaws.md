@@ -11,7 +11,7 @@ Aragon Cooperative will be the name of this organization. It shall be incorporat
 ### Section 2    _*Purpose*_
 The organization is incorporated solely for charitable purposes which is:
 
-To support grassroots community initiatives in the broader Aragon ecosystem. This will include but not limited to general documentation and guides, demos, workshops, and meetups, with the purpose of helping people understand what Aragon is and how they can build with it. Its main focus is on engaging with people, talking to them, and distilling their questions and comments into actionable insights for the broader Aragon community.
+Please see `purpose.md` document for the Aragon Cooperative manefesto and objectives. 
 
 
 ### Section 3    _*Non-Discrimination Policy*_
