@@ -15,7 +15,7 @@ Please see `purpose.md` document for the Aragon Cooperative manifesto and object
 
 
 ### Section 3    _*Non-Discrimination Policy*_
-Pursuant to the Aragon Cooperative [code of conduct](add.link.here), Aragon Cooperative accepts volunteers and Members, determines compensation without discrimination on the basis of age, gender, sexual orientation, disability, ethnic identity, religion or creed.
+Pursuant to the Aragon Cooperative [code of conduct](./code_of_conduct.md), Aragon Cooperative accepts volunteers and Members, determines compensation without discrimination on the basis of age, gender, sexual orientation, disability, ethnic identity, religion or creed.
 
 <br>
 
@@ -36,7 +36,7 @@ The Membership shall be unlimited in size. Members receive no compensation other
 Members shall remain Members so long as they continue holding a MBR token. MBR tokens can be seen on the mainnet Aragon Cooperative DAO. This is the only source of truth for who is and is not a member. 
 
 ### Section 4    Quorum
-The quorum will be that set by the [DAO](link.to.dao) on the main Ethereum network.
+The quorum will be that set by the [DAO](https://mainnet.aragon.org/#/0x940B2B518F761f4c52CDd9865C57D9a907DC5E82/0x48e2868963f374ada069a52c490ae9cb1b645c75) on the main Ethereum network.
 
 All binding decisions must be made via the Aragon Cooperative DAO. This includes, but is not limited to:
 - changes to the structure of the DAO (adding/removing apps, adding/removing members, etc)
@@ -45,16 +45,16 @@ All binding decisions must be made via the Aragon Cooperative DAO. This includes
 - changes to the workflow
 
 ### Section 5    Meetings
-Regular meetings of the Members shall be held weekly. Meetings are optional and for discussion only. No binding decisions can be made via rough consensus. All binding decisions are to be made by voting with the Aragon Cooperative (DAO)[link.to.dao] on the main Ethereum network. Members who cannot or do not want to attend the meetings must be given the opportunity to contribute in writing. An agenda must be set and shared with all members 24hours prior to the meeting. Minutes of every meeting must also be made available for members to review. Agendas and minutes of meetings shall be held in the `meetings` folder of the temp repo.
+Regular meetings of the Members shall be held weekly. Meetings are optional and for discussion only. No binding decisions can be made via rough consensus. All binding decisions are to be made by voting with the Aragon Cooperative (DAO)[https://mainnet.aragon.org/#/0x940B2B518F761f4c52CDd9865C57D9a907DC5E82/0x48e2868963f374ada069a52c490ae9cb1b645c75] on the main Ethereum network. Members who cannot or do not want to attend the meetings must be given the opportunity to contribute in writing. An agenda must be set and shared with all members 24hours prior to the meeting. Minutes of every meeting must also be made available for members to review. Agendas and minutes of meetings shall be held in the `meetings` folder of the temp repo.
 
 ### Section 6    Notice of Meetings
 Written notice stating the place, date and hour of any regular meeting of the Members shall be delivered electronically to each Director with a minimum of seven days notice. 
 
 ### Section 7    Resignations, Termination and Absences
-Resignation from the Members must be in writing and received by the as per the [membership-offboarding](link.to.document) policy. Members shall have their MBR tokens burnt due to missing 2 weekly voting cycles a year. a member may have their MBR token burned for other reasons by a three-fourths vote of the remaining Members.
+Resignation from the Members must be in writing and received by the as per the [membership-offboarding](./membership-offboarding.md) policy. Members shall have their MBR tokens burnt due to missing 2 weekly voting cycles a year. a member may have their MBR token burned for other reasons by a three-fourths vote of the remaining Members.
 
 #### Section 8    Onboarding
-Onboarding new Members may be carried out at any time as per the [membership-onboarding](link.to.document) policy.
+Onboarding new Members may be carried out at any time as per the [membership-onboarding](./membership-onboarding.md) policy.
 
 #### Section 9    Conflict of Interest 
 
