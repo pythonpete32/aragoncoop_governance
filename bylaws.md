@@ -11,7 +11,7 @@ Aragon Cooperative will be the name of this organization. It shall be incorporat
 ### Section 2    _*Purpose*_
 The organization is incorporated solely for charitable purposes which is:
 
-Please see `purpose.md` document for the Aragon Cooperative manefesto and objectives. 
+Please see `purpose.md` document for the Aragon Cooperative manifesto and objectives. 
 
 
 ### Section 3    _*Non-Discrimination Policy*_
@@ -55,6 +55,12 @@ Resignation from the Members must be in writing and received by the as per the [
 
 #### Section 8    Onboarding
 Onboarding new Members may be carried out at any time as per the [membership-onboarding](link.to.document) policy.
+
+#### Section 9    Conflict of Interest 
+
+Any member who has a financial, personal, or official interest in, or conflict (or appearance of a conflict) with any matter pending a vote of the co-operative, of such nature that it prevents or may prevent that member from acting on the matter in an impartial manner, will offer to the co-operative to voluntarily excuse him/herself and refrain from discussion and voting on said item.
+
+
 
 <br>
 
